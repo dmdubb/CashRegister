@@ -1,5 +1,8 @@
 # Cash Register
 
+## My Solution
+I have placed notes and answers to this problem in a new file.  SolutionNotes.md
+
 ## The Problem
 Creative Cash Draw Solutions is a client who wants to provide something different for the cashiers who use their system. The function of the application is to tell the cashier how much change is owed, and what denominations should be used. In most cases the app should return the minimum amount of physical change, but the client would like to add a twist. If the "owed" amount is divisible by 3, the app should randomly generate the change denominations (but the math still needs to be right :))
 

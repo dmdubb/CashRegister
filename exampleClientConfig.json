@@ -1,0 +1,11 @@
+{
+  "clientName": "Dave's Store",
+  "denominationsAvail": [
+    {"denominationName": "Nickel", "denominationValue": 0.05},
+    {"denominationName": "Dollar", "denominationValue": 1.00},
+    {"denominationName": "Quarter", "denominationValue": 0.25},
+    {"denominationName": "Dime", "denominationValue": 0.10},
+    {"denominationName": "Penny", "denominationValue": 0.01}
+  ],
+  "randomModifierDenominator": 3.00
+}

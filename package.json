@@ -1,0 +1,23 @@
+{
+  "name": "cashregister",
+  "version": "1.0.0",
+  "description": "Cash Register Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmdubb/CashRegister.git"
+  },
+  "author": "David Walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmdubb/CashRegister/issues"
+  },
+  "homepage": "https://github.com/dmdubb/CashRegister#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "n-readlines": "^1.0.0"
+  }
+}
